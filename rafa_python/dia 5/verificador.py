@@ -8,8 +8,6 @@ palpite = int(input("Quanto é 12 * 5?\nDigite sua resposta: "))
 acertou = palpite == resultado
 
 
-
-
 if palpite == resultado:
     print(f"Acertou!\n{acertou}")
 else:
