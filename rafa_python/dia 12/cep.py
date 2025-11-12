@@ -1,6 +1,5 @@
 from os import system
 system("cls")
-import requests
 
 url = "https://viacep.com.br/ws/14165486/json/"
 
