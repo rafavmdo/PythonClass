@@ -1,0 +1,15 @@
+João vivia de "bicos", lutando para fechar as contas.
+Em seu tempo livre, em vez de descansar, ele abria o computador.
+Seu objetivo: **aprender Python**.
+Noites em claro, muitos cafés e incontáveis erros.
+`SyntaxError` era seu pesadelo.
+Mas ele persistiu.
+Começou automatizando planilhas para um amigo.
+Depois, criou um pequeno script para uma loja local.
+A confiança cresceu.
+Ele montou um portfólio simples.
+Aplicou para uma vaga de desenvolvedor júnior.
+Na entrevista, mostrou o que *realmente* sabia fazer.
+Hoje, João é desenvolvedor pleno.
+Ele trocou a incerteza do dia a dia
+Pela estabilidade que o código lhe deu.
